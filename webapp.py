@@ -17,7 +17,7 @@ from collections import Counter
 
 from nltk.tokenize import sent_tokenize
 import tensorflow as tf
-import en_core_web_sm
+#import en_core_web_sm
 
 from rouge import Rouge 
 rouge = Rouge()
